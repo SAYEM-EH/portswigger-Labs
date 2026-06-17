@@ -1,1 +1,39 @@
+# Access Control Vulnerability Lab
 
+## Overview
+
+This repository contains my solution and notes for a PortSwigger Web Security Academy Access Control Vulnerability Lab. The lab focuses on identifying and exploiting authorization flaws that allow unauthorized users to access restricted resources or functionality.
+
+## Objective
+
+* Identify access control weaknesses.
+* Analyze how authorization mechanisms are implemented.
+* Exploit the vulnerability to gain unauthorized access.
+* Understand the security impact of broken access controls.
+
+## Key Learning Points
+
+* Access control vulnerabilities occur when applications fail to properly enforce user permissions.
+* Broken authorization can expose sensitive data and privileged functionality.
+* Server-side authorization checks are critical for protecting sensitive resources.
+* Proper role-based access control (RBAC) and validation mechanisms help prevent unauthorized access.
+
+## Result
+
+✅ Successfully solved the Access Control Vulnerability Lab and gained hands-on experience in identifying, analyzing, and exploiting authorization flaws in web applications.
+
+## Skills Practiced
+
+* Access Control Testing
+* Authorization Bypass
+* Web Application Security Testing
+* Vulnerability Analysis
+* Ethical Hacking
+
+## Platform
+
+PortSwigger Web Security Academy
+
+### Tags
+
+#PortSwigger #AccessControl #WebSecurity #CyberSecurity #EthicalHacking #BugBounty
